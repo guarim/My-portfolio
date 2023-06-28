@@ -19,14 +19,14 @@
 /*===== Fuente y tipografia =====*/
 :root{
     --body-font: 'Montserrat', sans-serif;
-    --big-font-size: 6.25rem;
+    --big-font-size: 3.25rem;
     --h2-font-size: 1.25rem;
     --normal-font-size: .938rem;
     --small-font-size: .813rem;
 }
 @media screen and (min-width: 768px){
     :root{
-        --big-font-size: 10.5rem;
+        --big-font-size: 6.5rem;
         --h2-font-size: 2rem;
         --normal-font-size: 1rem;
         --small-font-size: .875rem;
