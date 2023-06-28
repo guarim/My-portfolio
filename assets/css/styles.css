@@ -224,7 +224,7 @@ img{
     width: 130px;
     height: 1300px;
     background-color: var(--first-color);
-    border-radius: 10%;
+    border-radius: 50%;
     overflow: hidden;
 }
 .about__img img{
