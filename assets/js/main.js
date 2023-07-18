@@ -45,7 +45,7 @@ function scrollActive(){
 const sr = ScrollReveal({
     origin: 'top',
     distance: '280px',
-    duration: 3000,
+    duration: 1000,
     reset: true
 })
 
